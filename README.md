@@ -1,4 +1,2 @@
-demo
-====
-
-demo
+#!/bin/sh
+echo "hi"
